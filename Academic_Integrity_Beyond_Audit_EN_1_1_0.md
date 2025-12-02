@@ -1,7 +1,5 @@
 # Academic Integrity Beyond Audit: A Multi-Regime Field Approach to Performance, Internalization and Agency
 
-**Version 1.1.0**
-
 **Author:** Benjamin Rivera Perez  
 Independent Researcher; Hyperweb Healthtech OÜ, Tallinn, Estonia  
 Corresponding author: ben@hyperweb.ee  
@@ -90,29 +88,17 @@ The integrity field is the space defined by the co-presence of these regimes. Ag
 
 The language of "field" invites a question: why not Bourdieu?
 
-Bourdieu's field theory offers a powerful apparatus for analyzing how agents compete for position within structured spaces of capital accumulation [Bourdieu, 1984; Bourdieu & Wacquant, 1992]. Academic integrity could, in principle, be analyzed as a field in Bourdieu's sense—with its own forms of capital (reputation, credentials, moral standing), its own struggles for position, its own mechanisms of reproduction.
+Bourdieu's field is a space of competition—agents struggling for position, accumulating capital, reproducing structures [Bourdieu, 1984; Bourdieu & Wacquant, 1992]. The integrity field proposed here is not a space of competition but of *navigation*. The student facing six regimes at once is not primarily seeking position; she is trying to survive with her judgment intact. Bourdieu's agent accumulates. Mine escapes—or tries to.
 
-This paper takes a different path—not because Bourdieu is wrong, but because the problem I am addressing is architectural before it is competitive.
+The term "regime" resonates with Foucault [1991]. The kinship is real: the algorithmic regime that flags "AI risk" produces subjects who write for the detector, not for understanding. But Foucault asks how regimes became thinkable—genealogy. I ask what happens when multiple regimes coexist and collide—topology.
 
-Bourdieu's field presupposes that agents are competing for something within a structured space. The integrity field I propose is prior to that: it asks what happens when agents are subject to *multiple* normative structures that do not share a common currency. The student navigating legal, bureaucratic, metric, algorithmic, and communal regimes is not primarily competing for position. She is trying to figure out *which game she is even playing*—and discovering that the answer depends on who is watching.
+Foucault's distinction between discipline and governmentality matters here. Discipline operates on bodies: surveillance, constraint, friction. The subject *feels* governed and can resist. Governmentality operates on conduct: incentives, nudges, architectures of choice. The subject *wants* what the regime wants—and believes the wanting is her own. Proctoring is discipline. Gamified learning platforms are governmentality. The danger is asymmetric: discipline creates resisters who know they resist; governmentality creates collaborators who do not know they collaborate.
 
-Similarly, the term "regime" resonates with Foucault's analyses of governmentality—the ways in which populations are shaped, guided, and conducted through dispersed mechanisms of power [Foucault, 1991]. There is genuine kinship here. The algorithmic regime that flags a student's prose for "AI risk" is doing something Foucault would recognize: producing subjects who internalize surveillance, who learn to write *for the detector* rather than for understanding.
+This complicates any easy celebration of "internalization." If regimes *produce* subjects—shaping desires, identities, judgments—then high internalization may signal not autonomy but successful subjectification. The most governed student may be the one who believes most sincerely.
 
-Foucault distinguished between *discipline*—which operates on bodies through direct surveillance, spatial arrangement, and normalization—and *governmentality*—which operates on conduct through the structuring of choices, incentives, and environments. Discipline creates friction; the subject *feels* constrained and can resist. Governmentality creates desire; the subject *wants* what the regime wants and believes the wanting is her own.
+Boltanski and Thévenot [2006] analyzed how actors justify actions across multiple "orders of worth." The integrity field shares their intuition about plural normative frameworks but differs in focus: they analyze justification; I analyze navigation under demands that may not be justifiable at all—only escapable.
 
-This distinction matters for the integrity field. A proctoring system is disciplinary: it constrains the body, produces discomfort, and can generate visible resistance. A gamified learning platform with metrics, badges, and leaderboards is governmental: it shapes what the student wants, and she may never recognize the shaping as external.
-
-The danger is asymmetric. Discipline produces subjects who know they are constrained—and can therefore push back. Governmentality produces subjects who believe they are free—and therefore cannot recognize what has been done to them. An institution that relies on discipline creates potential insurgents. An institution that relies on governmentality creates willing collaborators who do not know they are collaborating.
-
-This complicates any simple valorization of "internalization." If regimes do not merely constrain but *produce* subjects—shaping what they want, how they see themselves, what they experience as "their own" judgment—then high internalization may indicate not autonomous endorsement but successful subjectification. The student who genuinely believes in the integrity norms may be the most governed of all.
-
-But Foucault's genealogical method asks *how* a regime came to be thinkable, what historical conditions made it possible. The integrity field framework asks a more immediate question: *given* that multiple regimes now coexist, what happens to the agent caught between them? This is not genealogy but topology—mapping the space agents must navigate, not the history that produced it.
-
-The framework is therefore compatible with both Bourdieu and Foucault but does not require their full theoretical apparatus. It operates at a different level of abstraction: not "how did we get here?" but "what is the structure of *here*, and what does it do to those who must live in it?"
-
-One might also ask about Boltanski and Thévenot's analysis of multiple "orders of worth"—the ways in which actors in modern societies draw on different moral grammars to justify their actions [Boltanski & Thévenot, 2006]. The integrity field shares their intuition that modern life involves navigating plural normative frameworks. The difference is in focus: Boltanski and Thévenot analyze how actors *justify* their actions across orders; the integrity field analyzes how *institutional architectures* impose demands that may not be justifiable at all—demands that must simply be navigated, performed, or escaped.
-
-This is not a claim to have superseded these traditions. It is a claim about where the diagnostic work is needed: not in richer theory, but in sharper tools for seeing what institutions are actually doing to the people inside them.
+This framework does not supersede these traditions. It operationalizes what they diagnosed.
 
 ### 2.4 The audit turn and massification
 
@@ -169,7 +155,7 @@ PIC gives us a way to name what is often invisible: the gap between what an inst
 
 ### 4.1 From index to profile
 
-In earlier formulations, the Audit Dependency Index (ADI) was presented as if it were, or could soon become, a numerical measure. In its current stage of development, it is more accurate and methodologically sound to treat it as a qualitative profiling heuristic rather than a validated scalar index. For this reason, this article uses the term Audit Dependency Profile (ADP).
+One might initially conceive of audit dependency as a numerical index—a single score capturing how much an institution relies on external verification. In practice, this proves too reductive. It is more accurate and methodologically sound to treat audit dependency as a qualitative profiling heuristic rather than a scalar index. For this reason, this article uses the term Audit Dependency Profile (ADP).
 
 An ADP describes how strongly a local configuration of regimes relies on externalized audit mechanisms to maintain integrity-relevant behavior. It does not produce a single numerical score but a structured description of how dependence on audit is distributed across regimes.
 
@@ -224,44 +210,28 @@ These are not personality types. They are positions that agents can occupy at di
 
 ### 5.2 States of agency and their theoretical precedents
 
-A reader familiar with organizational sociology will recognize echoes in this taxonomy.
+These states will sound familiar. That is the point—and the problem.
 
-Strategic compliance resembles what Meyer and Rowan [1977] called "decoupling"—the gap between formal structures and actual practice in institutionalized organizations. Ritual performance echoes Strathern's [2000] analysis of how audit regimes produce "performances for the measure" that may have little connection to underlying substance. Exit is, of course, Hirschman's [1970] term for one of the three responses to organizational decline.
+Strategic compliance resembles Meyer and Rowan's [1977] "decoupling"—formal structures divorced from actual practice. But decoupling in their account is an *organizational* strategy for managing legitimacy. In the integrity field, it becomes an *individual* survival mechanism: not managing institutional pressures but preserving a self the institution has not colonized.
 
-The question is fair: what is new here?
+Exit echoes Hirschman [1970]: dissatisfied members can exit (leave) or voice (complain), with loyalty determining which. But Hirschman assumed the options remain open. The integrity field reveals what happens when they close: the agent who cannot exit (credentials necessary), cannot voice (the algorithm does not listen), and cannot remain loyal (trust forfeited). What remains?
 
-The answer lies in *what produces the states* and *what triggers movement between them*.
+Strategic compliance: performing without believing.
 
-**On decoupling.** In Meyer and Rowan's account, decoupling is a stable organizational strategy—a way of managing the tension between legitimacy and efficiency. Organizations maintain formal structures to satisfy external audiences while actual practices diverge to preserve operational functionality. In the integrity field, strategic compliance is decoupling at the level of the individual agent. But where organizational decoupling is a collective strategy, individual decoupling is often a survival mechanism—not a way of managing institutional pressures, but of preserving a self that the institution has not colonized. The student who performs compliance without endorsement is not gaming the system; she is protecting something from it.
+This is not a choice among Hirschman's options. It is the exhaustion of all three.
 
-**On exit, voice, and loyalty.** Hirschman [1970] identified exit and voice as the two primary responses to organizational decline, with loyalty determining which path agents choose. High loyalty favors voice—the attempt to change from within. Low loyalty favors exit—departure for alternatives. The integrity field reveals a third possibility that Hirschman's framework does not fully capture: the agent who can neither exit (costs are prohibitive, credentials are necessary) nor voice (regimes are algorithmic, metrics are "objective," no one is listening) nor remain loyal (the institution has forfeited trust).
+High-ADP configurations systematically eliminate voice. To whom does one complain when the regime is algorithmic? What does one contest when the metric is "objective"? Voice requires an audience capable of response. Dashboards do not respond.
 
-This agent does not leave, does not speak, does not believe—but performs.
+Exit, too, has gradations Hirschman did not map:
 
-Strategic compliance is what remains when exit is blocked, voice is futile, and loyalty is dead. It is not a choice between Hirschman's options but the exhaustion of all three.
+- **Physical exit:** dropout, transfer—departure from the field
+- **Internal exit:** body present, agent absent—ritual performance as exit-in-place
+- **Partial exit:** strategic compliance—exiting belief while maintaining performance
+- **Gradual exit:** progressive disengagement, minimum viable participation
 
-Moreover, high-ADP configurations systematically eliminate voice. When the regime is algorithmic, to whom does one complain? The algorithm does not listen. When the regime is metric, what does one contest? The number is "objective." When the regime is bureaucratic, what does one say? "Those are the rules." Voice requires an audience capable of response. Audit regimes replace responsive audiences with automated systems and dashboards.
+The student submitting work on time, meeting requirements, passing courses—she may have exited long ago. The agent who might have cared has departed. What remains is performance without a performer.
 
-Without voice, only exit or compliance remain. And when exit is blocked—by the necessity of credentials, by sunk costs, by lack of alternatives—compliance becomes the only option. But compliance without loyalty or voice is not commitment. It is strategic compliance at best, ritual performance at worst.
-
-**On exit as state, not decision.** In Hirschman's framework, exit is a discrete decision—one of three options available to dissatisfied members of an organization. In the integrity field, exit is a *state*—sometimes a dramatic withdrawal, but often a quiet disengagement, a slow retreat from participation, an inner emigration that leaves the body present but the agent absent. Students who stop caring, who do the minimum, who have learned that the game is rigged—they have exited without leaving.
-
-Exit, it turns out, has gradations:
-
-| Form of exit | What happens |
-|--------------|--------------|
-| **Physical exit** | Dropout, transfer, withdrawal—departure from the field |
-| **Internal exit** | Body present, agent absent—ritual performance as exit-in-place |
-| **Partial exit** | Strategic compliance—exits belief while maintaining performance |
-| **Gradual exit** | Progressive disengagement, minimum viable participation |
-
-This is exit as internal condition, not external action. The student is physically present, enrolled, submitting work. But the agent—the one who might care, who might believe, who might engage—has departed.
-
-**The field-level account.** What the taxonomy adds is this: these states are not personality types or strategic choices but *products of architecture*. A student does not "choose" ritual performance; she is *produced as* a ritual performer by a configuration of regimes that rewards performance and ignores—or cannot see—internalization.
-
-And crucially: the transitions between states are not gradual shifts in attitude but *qualitative breaks* triggered by high-stakes evaluation events. The student who was deliberatively engaged may, in the pressure of an exam governed by conflicting regimes, find herself suddenly in strategic compliance—and may never quite return. The architecture does not just constrain behavior; it reshapes the agent.
-
-This is the sense in which the states are "of agency" rather than "of behavior" or "of motivation." They describe not what agents do but *what kind of agent the field allows them to be*.
+What the taxonomy adds: these states are not chosen but *produced*. The architecture that rewards performance and ignores internalization does not merely constrain behavior—it reshapes what kind of agent the field allows one to be.
 
 ### 5.3 Evaluation events and transitions
 
@@ -502,10 +472,3 @@ Senge, P. M. (1990). *The fifth discipline: The art and practice of the learning
 Shore, C., & Wright, S. (2015). Audit culture revisited: Rankings, ratings, and the reassembling of society. *Current Anthropology, 56*(3), 421–444.
 
 Strathern, M. (2000). The tyranny of transparency. *British Educational Research Journal, 26*(3), 309–321.
-
----
-
-## Version History
-
-- **v1.0.0** (2025-06-01): Initial release
-- **v1.1.0** (2025-12-02): Added theoretical contextualization (Section 2.3 on Bourdieu, Foucault, Boltanski & Thévenot; Section 5.2 expanded with Hirschman's exit/voice/loyalty framework and gradations of exit; Section 7.3 on evidence and framework status; expanded conclusion with explicit normative position and Foucauldian warning on subjectification)
